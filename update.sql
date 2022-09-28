@@ -1,0 +1,10 @@
+UPDATE musicians SET producer_id = '1' WHERE musician_id = 1;
+UPDATE musicians SET producer_id = '4' WHERE musician_id = 2;
+UPDATE musicians SET producer_id = '2' WHERE musician_id = 3;
+UPDATE musicians SET producer_id = '8' WHERE musician_id = 4;
+UPDATE musicians SET producer_id = '10' WHERE musician_id = 5;
+UPDATE musicians SET producer_id = '5' WHERE musician_id = 6;
+UPDATE musicians SET producer_id = '3' WHERE musician_id = 7;
+UPDATE musicians SET producer_id = '9' WHERE musician_id = 8;
+UPDATE musicians SET producer_id = '6' WHERE musician_id = 9;
+UPDATE musicians SET producer_id = '7' WHERE musician_id = 10;
