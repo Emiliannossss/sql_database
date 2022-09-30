@@ -1,2 +1,2 @@
-#My SQL Database
+My SQL Database
 
